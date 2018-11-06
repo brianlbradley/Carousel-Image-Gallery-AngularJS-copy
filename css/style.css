@@ -1,0 +1,37 @@
+body {
+  margin-top:20px;
+  background-color: black;
+}
+.carousel-inner img {
+  margin: 0 auto;
+}
+
+img {
+	height: 650px;
+	max-width: 800px;
+}
+
+ .navbar-nav {
+
+margin:0 auto;
+list-style:none;
+}
+.navbar-nav li {
+float:left;
+}
+.navbar-nav a {
+display:block;
+text-align:center;
+width:165px; /* fixed width */
+text-decoration:none;
+}
+/*
+.navbar-nav ul {
+   list-style: none;
+   text-align: center;
+}
+
+.navbar-nav ul li {
+   display: inline-block;
+}
+*/
